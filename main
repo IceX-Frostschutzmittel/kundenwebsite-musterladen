@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Musterladen</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #34495e;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Musterladen</h1>
+    <p>Ihre Anlaufstelle für Qualität & Service</p>
+  </header>
+
+  <nav>
+    <a href="#ueber">Über uns</a>
+    <a href="#angebote">Angebote</a>
+    <a href="#kontakt">Kontakt</a>
+  </nav>
+
+  <section id="ueber">
+    <h2>Über uns</h2>
+    <p>Willkommen im Musterladen! Seit über 20 Jahren stehen wir für Qualität, persönliche Beratung und freundlichen Service. Besuchen Sie uns und überzeugen Sie sich selbst.</p>
+  </section>
+
+  <section id="angebote">
+    <h2>Unsere Angebote</h2>
+    <ul>
+      <li>Frisches Obst und Gemüse</li>
+      <li>Regionale Produkte direkt vom Bauern</li>
+      <li>Hausgemachte Spezialitäten</li>
+    </ul>
+  </section>
+
+  <section id="kontakt">
+    <h2>Kontakt</h2>
+    <p>Adresse: Musterstraße 12, 12345 Musterstadt</p>
+    <p>Telefon: 01234 56789</p>
+    <p>E-Mail: info@musterladen.de</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Musterladen – Alle Rechte vorbehalten</p>
+  </footer>
+</body>
+</html>
